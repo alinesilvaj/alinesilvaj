@@ -2,13 +2,13 @@
 
 <strong>(en)</strong>
 
-<p> Hello. My name is Aline, I am 25 years old and I am currently in a career transition. I have a degree in Physics from PUC Minas and work in the education sector. My time as an undergraduate and as a teacher has allowed me to improve my critical and analytical thinking, teamwork and communication.
-I am currently studying to enter the technology sector and looking for a job opportunity to gain experience and develop my skills. I have studied HTML5, CSS3 and JavaScript with a focus on the front-end, and I have also studied a little of the Vue.js framework, which I really enjoyed. I am currently taking the Full Stack Developer course from DIO in partnership with XP Inc., where I am learning to create web applications using .NET for the back-end and React on the front-end, acquiring knowledge of DevOps actions and mastering cloud deployment tools. </p>
+<p> Hello. My name is Aline, I am 25 years old and I am currently in a career transition. I have a degree in Physics from PUC Minas and work in the education sector. My time as an undergraduate and as a teacher has allowed me to improve my critical and analytical thinking, teamwork and communication. I am currently studying to enter the technology sector and looking for a job opportunity to gain experience and develop my skills. <br>
+I have studied HTML5, CSS3 and JavaScript with a focus on the front-end, and I have also studied a little of the Vue.js framework, which I really enjoyed. I am currently taking the Full Stack Developer course from DIO in partnership with XP Inc., where I am learning to create web applications using .NET for the back-end and React on the front-end, acquiring knowledge of DevOps actions and mastering cloud deployment tools. </p>
 
 <strong>(pt-br)</strong>
 
-<p> Olá. Meu nome é Aline, tenho 25 anos e atualmente estou em transição de carreira. Sou formada em Física pela PUC Minas e atuo na área da educação. Meu tempo na graduação e como professora me permitiram aprimorar pensamento crítico e analítico, trabalho em equipe e comunicação.
-Atualmente estou estudando para ingressar na área de tecnologia e em busca de uma oportunidade de trabalho para ganhar experiência e desenvolver minhas habilidades. Estudei HTML5, CSS3 e JavaScript com foco no front-end, e também já estudei um pouco do framework Vue.js, que gostei muito. No momento estou fazendo o curso Full Stack Developer da DIO em parceria com a XP Inc., em que estou aprendendo a criar aplicações web usando .NET para o back-end e React no front-end, adquirindo conhecimento de ações DevOps e domínio de ferramentas de deploy em nuvem. </p>
+<p> Olá. Meu nome é Aline, tenho 25 anos e atualmente estou em transição de carreira. Sou formada em Física pela PUC Minas e atuo na área da educação. Meu tempo na graduação e como professora me permitiram aprimorar pensamento crítico e analítico, trabalho em equipe e comunicação. Atualmente estou estudando para ingressar na área de tecnologia e em busca de uma oportunidade de trabalho para ganhar experiência e desenvolver minhas habilidades. <br>
+Estudei HTML5, CSS3 e JavaScript com foco no front-end, e também já estudei um pouco do framework Vue.js, que gostei muito. No momento estou fazendo o curso Full Stack Developer da DIO em parceria com a XP Inc., em que estou aprendendo a criar aplicações web usando .NET para o back-end e React no front-end, adquirindo conhecimento de ações DevOps e domínio de ferramentas de deploy em nuvem. </p>
 
  <h2> 📫 Connect with me </h2>
 
